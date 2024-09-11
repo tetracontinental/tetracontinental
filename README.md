@@ -1,7 +1,7 @@
 # tetracontinental
 
 ## my skills
-[![My Skills](https://skillicons.dev/icons?i=css,discord,docker,html,django,nginx,py,raspberrypi,react,tensorflow,vue&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,nginx,css,raspberrypi,vscode,docker,git,bash,linux,github,npm,js,ts,discord,html,django,react,tensorflow,vue&perline=8)](https://skillicons.dev)
 
 ## status
 [![Likes](https://badgen.org/img/zenn/tetracontane/likes?style=flat-square&label=Likes)](https://zenn.dev/tetracontane)
